@@ -1,6 +1,10 @@
 # MERN---CHAT-APP
 Real-time chat application powered by socket.io</h2>
 
+## Screenshots
+![Home](https://github.com/jitendra-shrarma/mern---chat-app/blob/main/screenshots/screenshot1.png)
+![Chat](https://github.com/jitendra-shrarma/mern---chat-app/blob/main/screenshots/screenshot2.png)
+
 ## Tech stack
 
 **Frontend:**
