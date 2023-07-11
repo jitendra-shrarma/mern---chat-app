@@ -150,7 +150,7 @@ const SearchDrawer = () => {
         </Tooltip>
 
         <Text fontSize='2xl' fontFamily='Work sans'>
-          Bit Chat
+          Chat App
         </Text>
 
         <div>
